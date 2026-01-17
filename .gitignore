@@ -1,0 +1,20 @@
+# Jupyter
+.ipynb_checkpoints/
+Untitled.ipynb
+
+# Anaconda / environments
+anaconda_projects/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+
+
+
+
